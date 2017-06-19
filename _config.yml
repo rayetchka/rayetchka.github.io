@@ -1,0 +1,18 @@
+# Site settings
+title: Rayetchka's tuck
+email: rayetchka@users.noreply.github.com
+description: > 
+  Rayetchka's tucking techniques developped over the years
+baseurl: "" 
+url: "https://rayetchka.github.io/"
+github_username: rayetchka
+
+theme: jekyll-theme-architect
+
+# Build settings
+markdown: kramdown
+safe: true
+
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
