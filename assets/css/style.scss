@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header a.button .avatar {
+  position: absolute;
+  top: 16px;
+  left: 12px;
+}
+
+@media only screen and (max-width: 767px) {
+  header a.button .avatar {
+    display: none;
+  }
+}
+
+header, a.button,
+#main-content h1, #main-content h2, #main-content h3,
+#main-content h4, #main-content h5, #main-content h6 {
+  font-family: 'Linux Biolinum', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-feature-settings: "liga";
+}
+
+header h1 {
+  font-feature-settings: "smcp";
+}
+
+body {
+  font-family: 'Linux Libertine', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-feature-settings: "liga";
+}

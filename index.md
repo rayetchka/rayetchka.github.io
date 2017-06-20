@@ -4,8 +4,11 @@ layout: default
 ---
 
 # The project
-
+{:.no_toc}
 This project (named “Rayetchka's tuck”) is about developping some of the techniques usually known as *“tucking”*.  
+
+* TOC
+{:toc}
 
 {% include foreword.md %}
 

@@ -1,0 +1,29 @@
+---
+---
+
+/* Linux Libertine Typeface */
+{% for i in (1..4) %}
+@font-face {
+  font-family: 'Linux Libertine';
+  font-style: {% cycle 'style': 'normal', 'italic' %};
+  font-weight: {% cycle 'weight': 'normal', 'normal', 'bold', 'bold' %};
+  src: local('Linux Libertine'), local('LinuxLibertine'), url(../fonts/linuxlibertine/LinLibertine_{% cycle 'name': 'R', 'RI', 'RB', 'RBI' %}.woff) format('woff2');
+}
+{% endfor %}
+
+/* Linux Biolinum Typeface */
+{% for i in (1..3) %}
+@font-face {
+  font-family: 'Linux Biolinum';
+  font-style: {% cycle 'style': 'normal', 'italic' %};
+  font-weight: {% cycle 'weight': 'normal', 'normal', 'bold' %};
+  src: local('Linux Biolinum'), local('LinuxBiolinum'), url(../fonts/linuxlibertine/LinBiolinum_{% cycle 'name': 'R', 'RI', 'RB' %}.woff) format('woff2');
+}
+{% endfor %}
+
+@font-face {
+  font-family: 'Linux Biolinum Keyboard';
+  font-style: 'normal';
+  font-weight: 'normal';
+  src: url(../fonts/linuxlibertine/LinBiolinum_K.woff) format('woff2');
+}

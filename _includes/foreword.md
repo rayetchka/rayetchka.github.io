@@ -25,18 +25,21 @@ but also how thoose see themselves when they look in the mirror.
 ## So, why looking to *“pass”* if it's something __inherently evil__ ? 👿
 
 ### → Reducing harassment
+{:.no_toc}
 As said before, people get more and more backdraft
 as they withdraw cisgender expectations.  
 The converse statement is that *“passing”* may be seen to some exends
 as *a survival issue*.
 
 ### → Manufactured product's cis‑centric designs
+{:.no_toc}
 Cisgender people design their own stuffs following only their own expectations,
 and specifically thoose related to body shapes.  
 Some can experience more or less *incomfort* and/or difficulties
 using products not designed taking their specific needs in account.
 
 ### → Internalized cis‑normativity
+{:.no_toc}
 The more cis is the standard, the more cis‑standards overwhelms anything else,
 including our vision ourselves.  
 Surrounded by omnipresence of cisnorms, we see ourself through cis-glasses
