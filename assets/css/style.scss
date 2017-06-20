@@ -30,3 +30,25 @@ body {
   font-family: 'Linux Libertine', 'Helvetica Neue', Helvetica, Arial, serif;
   font-feature-settings: "liga";
 }
+
+@media only screen and (min-width: 768px) {
+  #main-content ul#markdown-toc {
+    position: absolute;
+    right: 0px;
+    top: 3em;
+    width: 200px;
+    list-style-type: none;
+    padding-left: .5em;
+  }
+  #main-content ul#markdown-toc ul {
+    list-style-type: none;
+    padding-left: .5em;
+  }
+  #main-content ul#markdown-toc ul li {
+    border-left: 4px solid #ddd;
+    padding-left: .5em;
+  }
+  #main-content ul#markdown-toc ul li+li {
+    border-top: thin solid #ddd;
+  }
+}

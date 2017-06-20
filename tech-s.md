@@ -3,6 +3,10 @@ title: Technique #S
 layout: default
 ---
 [technique #E ←]({% link tech-e.md %}) | [skip foreword](#technique-s) (not recomended) | [→ technique #W]({% link tech-w.md %})
+
+* TOC
+{:toc}
+
 {% include foreword.md %}
 
 # Technique #S

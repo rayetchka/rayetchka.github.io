@@ -45,6 +45,10 @@ and repositionned several times (in toilet context for example).
 | → **[#S]({% link tech-s.md %}#technique-s)** |  water resistant  |       full     |    :fixme: €/u  |  sport   |
 | → **[#W]({% link tech-w.md %}#technique-w)** |  water proof      |     medium     |    :fixme: €/u  | swimming |
 
+## [Technique #E]({% link tech-e.md %}#technique-e)
+## [Technique #S]({% link tech-s.md %}#technique-s)
+## [Technique #W]({% link tech-w.md %}#technique-w)
+
 ---
 
 # Open Design

@@ -4,7 +4,7 @@ email: rayetchka@users.noreply.github.com
 description: > 
   Rayetchka's tucking techniques improved over the years
 baseurl: "" 
-url: "https://rayetchka.github.io/"
+url: "https://rayetchka.github.io"
 github_username: rayetchka
 
 theme: jekyll-theme-architect
