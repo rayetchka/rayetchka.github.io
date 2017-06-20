@@ -11,6 +11,8 @@ layout: default
 
 # Technique #E
 
+| ![schema]({% link tech-e.svg %}) | ![schema]({% link tech-e-isom.svg %}) |
+
 ## raw material
 
 - 5cm×30cm + 5cm×20cm non-woven adhesive medical tape 
@@ -30,6 +32,4 @@ layout: default
   - cut from cothes labels, adhesive packaging, …
 
 ## Steps
-
-
 
