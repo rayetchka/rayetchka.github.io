@@ -3,31 +3,46 @@
   captions: true
   bullets: true
   images:
-    - src: tech-e/tech-e-1.svg
+    - data-src: tech-e/tech-e-1.svg
       href: tech-e/tech-e-1.svg
       title: step one
-      alt: proceed
-    - src: tech-e/tech-e-2.svg
+      alt: base adhesive bands and cardboard reinforcment
+    - data-src: tech-e/tech-e-2.svg
       href: tech-e/tech-e-2.svg
-      alt: step two
-    - src: tech-e/tech-e-3.svg
+      title: step two
+      alt: adhesive on adhesive in V shape
+    - data-src: tech-e/tech-e-3.svg
       href: tech-e/tech-e-3.svg
-      alt: step three
-    - src: tech-e/tech-e-4.svg
+      title: step three
+      alt: front cut and folded sanitary pad placement
+    - data-src: tech-e/tech-e-4.svg
       href: tech-e/tech-e-4.svg
-      alt: step four
-    - src: tech-e/tech-e-5.svg
+      title: step four
+      alt: pre-cut of adhesive's protection paper
+    - data-src: tech-e/tech-e-5.svg
       href: tech-e/tech-e-5.svg
-      alt: step five
-    - src: tech-e/tech-e-6.svg
+      title: step five
+      alt: flip and fold top V adhesive part
+    - data-src: tech-e/tech-e-6.svg
       href: tech-e/tech-e-6.svg
-      alt: step six
-    - src: tech-e/tech-e-7.svg
+      title: step six
+      alt: fold bottom V adhesive part and place pinching band
+    - data-src: tech-e/tech-e-7.svg
       href: tech-e/tech-e-7.svg
-      alt: step seven
-    - src: tech-e/tech-e-8.svg
+      title: step seven
+      alt: fold back part and pinch under part (now up)
+    - data-src: tech-e/tech-e-8.svg
       href: tech-e/tech-e-8.svg
-      alt: step height
+      title: step height
+      alt: place on body like a tube, fixing using front adhesive widening in V on pelvis
+    - data-src: tech-e/tech-e-9.svg
+      href: tech-e/tech-e-9.svg
+      title: step nine
+      alt: in very low sitting position, knees wide open, fold from front to back, fixing on coccyx
+    - data-src: tech-e/tech-e-10.svg
+      href: tech-e/tech-e-10.svg
+      title: step ten
+      alt: getting in upper position, folding now empty scrotum (from body mouvment) one over the other, fixing alternatively with both remaining adhesive, ending in X on pelvis
   settings:
     height: "'auto'"
     effect: "'fade'"
