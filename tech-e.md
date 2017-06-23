@@ -1,6 +1,8 @@
 ---
 title: Technique #E
 layout: default
+image_sliders:
+  - tech-e
 ---
 [skip foreword](#technique-e) (not recomended) | [→ technique #S]({% link tech-s.md %})
 
@@ -33,7 +35,5 @@ layout: default
 
 ## Steps
 
-| ![schema]({% link tech-e/tech-e-1.svg %}) | ![schema]({% link tech-e/tech-e-2.svg %}) |
-| ![schema]({% link tech-e/tech-e-3.svg %}) | ![schema]({% link tech-e/tech-e-4.svg %}) |
-| ![schema]({% link tech-e/tech-e-5.svg %}) | ![schema]({% link tech-e/tech-e-6.svg %}) |
-| ![schema]({% link tech-e/tech-e-7.svg %}) | |
+{% include slider.html selector="tech-e" %}
+
