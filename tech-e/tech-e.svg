@@ -983,8 +983,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.62598712"
-     inkscape:cx="840.96075"
-     inkscape:cy="453.87438"
+     inkscape:cx="861.34329"
+     inkscape:cy="563.73702"
      inkscape:document-units="mm"
      inkscape:current-layer="g16635"
      showgrid="false"
@@ -2158,11 +2158,19 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:0.62876252;fill-rule:nonzero;stroke:#000000;stroke-width:0.33072916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          sodipodi:nodetypes="ccccccccccc" />
       <path
-         transform="scale(0.26458333)"
-         id="path6320"
-         d="m 547.22656,560.07031 -86.8457,13.43164 29.95703,64.53125 21.26563,-3.28906 -181.21094,390.57616 111.77539,17.2969 198.49414,-427.83204 1.05273,-0.16211 -94.48632,-54.55274 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#668000;fill-opacity:0.62876252;fill-rule:nonzero;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
+         d="M 674.72334,541.63048 458.72381,1007.1898 570.4992,1024.4867 768.99333,596.65467"
+         id="path6320"
+         transform="matrix(0.26458333,0,0,0.26458333,-33.954305,4.7970237)"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#668000;fill-opacity:0.62876252;fill-rule:nonzero;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m 768.99333,596.65467 1.05273,-0.16211 -95.32272,-54.86208 -86.01129,13.74098 29.95703,64.53125 150.85062,-23.32909 z"
+         id="path5387"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         transform="matrix(0.26458333,0,0,0.26458333,-33.954305,4.7970237)" />
     </g>
     <g
        style="display:inline;stroke:#000000"
