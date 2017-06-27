@@ -6,15 +6,20 @@ description: >
 baseurl: "" 
 url: "https://rayetchka.github.io"
 github_username: rayetchka
+lang: en_GB
+google_analytics: UA-101716535-1
 
 theme: jekyll-theme-architect
 
 # Build settings
-markdown: kramdown
 safe: true
+markdown: kramdown
+kramdown:
+  header_offset: 1
 
 gems:
   - jemoji
+  - jekyll-seo-tag
   - jekyll-avatar
   - jekyll-sitemap
   - jekyll-paginate

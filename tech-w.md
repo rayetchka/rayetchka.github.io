@@ -1,5 +1,7 @@
 ---
-title: Technique #W
+title: Rayetchka's Tucking Technique W
+description: Rayetchka's tucking designed for swim use, based on sport straping
+lang: en_GB
 layout: default
 ---
 [technique #S ←]({% link tech-s.md %}) | [skip foreword](#technique-w) (not recomended)

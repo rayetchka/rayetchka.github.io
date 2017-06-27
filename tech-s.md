@@ -1,5 +1,7 @@
 ---
-title: Technique #S
+title: Rayetchka's Tucking Technique S
+description: Rayetchka's tucking designed for sports use, based on kinesio taping
+lang: en_GB
 layout: default
 ---
 [technique #E ←]({% link tech-e.md %}) | [skip foreword](#technique-s) (not recomended) | [→ technique #W]({% link tech-w.md %})

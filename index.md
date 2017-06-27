@@ -1,5 +1,7 @@
 ---
 title: Rayetchka's tuck
+description: Rayetchka's tucking techniques improved over the years
+lang: en_GB
 layout: default
 ---
 

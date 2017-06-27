@@ -1,5 +1,7 @@
 ---
-title: Technique #E
+title: Rayetchka's Tucking Technique E
+description: Rayetchka's tucking designed for everyday use, based on medical taping
+lang: en_GB
 layout: default
 image_sliders:
   - tech-e
