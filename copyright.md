@@ -1,5 +1,10 @@
 ---
+title: Rayetchka's tuck
+description: Copyright Rayetchka
+lang: en_GB
+sitemap: false
 ---
+
 # copyright
 
 > Copyright RAYETCHKA 2017.

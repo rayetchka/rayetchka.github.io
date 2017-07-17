@@ -1,4 +1,10 @@
-﻿
+---
+title: Rayetchka's tuck
+description: CERN Open Hardware Licence
+lang: en_GB
+sitemap: false
+---
+
 # CERN Open Hardware Licence v1.2 
 
 ## Preamble

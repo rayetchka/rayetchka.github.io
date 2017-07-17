@@ -1,5 +1,10 @@
 ---
+title: Rayetchka's tuck
+description: Contributor Covenant Code of Conduct
+lang: en_GB
+sitemap: false
 ---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
